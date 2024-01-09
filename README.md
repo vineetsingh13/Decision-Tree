@@ -35,14 +35,14 @@ The Decision Tree is initially created using entropy as a criterion and an initi
 The code has been implemented using Python and executed in Google Colaboratory. Google Colaboratory provides a free and convenient platform for running Python code in a Jupyter notebook environment.
 
 ## Files in the Repository
-DecisionTree.ipynb: Jupyter notebook containing the code for Decision Tree classification.
-drug200.csv: The dataset used for training and testing the Decision Tree model.
-README.md: This readme file.
+1. DecisionTree.ipynb: Jupyter notebook containing the code for Decision Tree classification.
+2. drug200.csv: The dataset used for training and testing the Decision Tree model.
+3. README.md: This readme file.
 
 
 ## Dependencies
 The following Python libraries are used in the implementation:
 
-pandas
-numpy
-sklearn
+ - pandas
+ - numpy
+ - sklearn

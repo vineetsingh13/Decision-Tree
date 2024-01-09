@@ -11,7 +11,8 @@ The dataset used is a tabular dataset with the following columns:
  - Cholesterol Level
  - Sodium-to-Potassium Ratio (Na_to_K)
  - Drug
- - Decision Tree Classification
+
+## Decision Tree Classification
 
 The Decision Tree algorithm is implemented to predict which drug should be prescribed based on the patient's features:
 
